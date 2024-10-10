@@ -3,18 +3,6 @@
 
 Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas embarcados, começando do básico até tópicos avançados. Seguindo este plano, você desenvolverá uma base sólida e progredirá de forma estruturada.
 
-graph LR
-A[Etapa 1: Fundamentos] --> B[Etapa 2: Arduino Básico]
-B --> C[Etapa 3: Eletrônica e C Avançado]
-C --> D[Etapa 4: Sensores e Atuadores]
-D --> E[Etapa 5: ESP32 e Conectividade]
-E --> F[Etapa 6: RTOS]
-F --> G[Etapa 7: ATtiny85]
-G --> H[Etapa 8: Protocolos de Comunicação]
-H --> I[Etapa 9: Projetos Integrados]
-I --> J[Etapa 10: Design de PCB]
-J --> K[Etapa 11: Otimização]
-K --> L[Etapa 12: Especialização]
 
 ---
 
