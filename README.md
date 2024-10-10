@@ -304,8 +304,8 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
     - [Embedded Systems Essentials with Arm](https://www.edx.org/course/embedded-systems-essentials-with-arm)
 
 - **Livros Recomendados**:
-  - *Explorando Arduino* de Jeremy Blum.
-  - *Programação Embarcada* de Luiz Felipe Ferreira.
+  - *Arduino: Guia para colocar suas ideias em prática* Fernando Bryan Frizzarin
+  - *Programação Sistemas Embarcados* Rodrigo Almeida
 
 ---
 
