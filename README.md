@@ -156,7 +156,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ---
 
-## **Etapa 7: Microcontroladores de Baixo Custo - ATtiny85**
+## **Etapa 7: [Microcontroladores de Baixo Custo - ATtiny85](https://www.microchip.com/en-us/product/attiny85)**
 
 ### **7.1. Programação do ATtiny85**
 
