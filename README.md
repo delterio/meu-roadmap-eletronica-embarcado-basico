@@ -8,7 +8,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ## **Etapa 1: Fundamentos de Eletrônica e Programação**
 
-### **1.1. Conceitos Básicos de Eletrônica**
+### **1.1. [Conceitos Básicos de Eletrônica](https://drive.google.com/drive/folders/0B0y88Lu1PrwVbU5OLWhhTmotdHc?resourcekey=0-oiDjmzDjphU9HdDGAsFqSQ&usp=drive_link)**
 
 **Objetivos de Aprendizado**:
 
