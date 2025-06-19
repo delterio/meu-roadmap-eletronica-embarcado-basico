@@ -37,7 +37,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ---
 
-## **Etapa 2: Iniciando com o Arduino**
+## **Etapa 2: [Iniciando com o Arduino].(https://drive.google.com/drive/folders/1p8mhUZYisQDo-4TtJwK55xMGGxtdVtiO?usp=drive_link).**
 
 ### **2.1. Configuração do Ambiente de Desenvolvimento**
 
