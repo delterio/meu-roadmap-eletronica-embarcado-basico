@@ -134,7 +134,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ---
 
-## **Etapa 6: Sistemas Operacionais de Tempo Real (RTOS)**
+## **Etapa 6: [Sistemas Operacionais de Tempo Real (RTOS)](https://freertos.org/)**
 
 ### **6.1. Introdução ao FreeRTOS no ESP32**
 
