@@ -208,7 +208,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ---
 
-## **Etapa 9: Desenvolvimento de Projetos Integrados**
+## **Etapa 9: [Desenvolvimento de Projetos Integrados](https://drive.google.com/drive/folders/1uONFw90cyHwPeSwW6QjGf8L0pYnPqzwZ?usp=drive_link)**
 
 ### **9.1. Projeto Prático: Estação Meteorológica IoT**
 
