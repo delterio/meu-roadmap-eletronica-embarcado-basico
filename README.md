@@ -179,7 +179,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ---
 
-## **Etapa 8: Protocolos de Comunicação**
+## **Etapa 8: [Protocolos de Comunicação](https://embarcados.com.br/protocolos-de-rede/)**
 
 ### **8.1. Comunicação Serial (UART)**
 
