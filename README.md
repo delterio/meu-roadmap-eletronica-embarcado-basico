@@ -293,6 +293,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
   - [Stack Overflow em Português](https://pt.stackoverflow.com/)
   - [Reddit - r/arduino](https://www.reddit.com/r/arduino/)
   - [Reddit - r/esp32](https://www.reddit.com/r/esp32/)
+  - [Embarcados](https://embarcados.com.br/)
 
 - **Cursos Online**:
   - **Udemy**:
