@@ -103,7 +103,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ---
 
-## **Etapa 5: Introdução ao ESP32 e Conectividade**
+## **Etapa 5: [Introdução ao ESP32 e Conectividade](https://drive.google.com/drive/folders/1Be4qIGMRjyvysgA6ZPshXoEGbB0bo1DM?usp=drive_link)**
 
 ### **5.1. Configurando o ESP32**
 
