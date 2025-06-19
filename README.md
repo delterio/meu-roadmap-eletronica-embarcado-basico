@@ -83,7 +83,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ---
 
-## **Etapa 4: [Explorando Sensores e Atuadores com Arduino](https://youtube.com/playlist?list=PLM9tp5wO9i-41OEHSrD-Oy6iCXVKiz6Kz&si=mOToAGUjkdl2lzoj)**
+## **Etapa 4: [Explorando Sensores e Atuadores com Arduino](https://youtube.com/playlist?list=PL7CjOZ3q8fMcx0hcgNg82h2IQSi_Pf-uQ&si=eXSmZsolENEVH9YL)**
 
 ### **4.1. Integração de Sensores**
 
