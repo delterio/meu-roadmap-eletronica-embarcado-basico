@@ -20,7 +20,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 **Recursos**:
 
 - **Curso Online**: [Eletrônica Básica](https://youtu.be/nsFBDCR1vLc?si=mlahTJpeFdd4FL9B)
-- **Vídeos Educativos**: Canais no YouTube como [Brincando com Ideias](https://www.youtube.com/user/Brincandocomideias) e [Engenharia no Papel](https://www.youtube.com/user/EngenhariaNoPapel).
+- **Vídeos Educativos**: Canais no YouTube como [Brincando com Ideias](https://www.youtube.com/Brincandocomideias) e [Engenharia no Papel](https://www.youtube.com/user/EngenhariaNoPapel).
 
 ### **1.2. Introdução à Programação em C/C++**
 
