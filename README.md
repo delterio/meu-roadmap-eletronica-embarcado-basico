@@ -276,7 +276,11 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 **Atividades**:
 
-- Experimentar com microcontroladores **[ARM (STM32)](https://www.st.com/content/st_com/en.html)**.
+**Experimentar com microcontroladores.**
+- **[ARM (STM32)](https://www.st.com/content/st_com/en.html)**;
+- **[Microchip AVR](https://www.microchip.com/en-us/products/microcontrollers/8-bit-mcus/avr-mcus)**;
+- **[Microchip FPGA](https://www.microchip.com/en-us/products/fpgas-and-plds/fpgas)**;
+- **[Microchip PIC](https://www.microchip.com/en-us/products/microcontrollers)**.
 
 **Utilizar microcontrolador de placa única para projetos mais complexos.**
 -  **[Raspberry Pi](https://www.raspberrypi.com/)**;
