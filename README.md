@@ -261,12 +261,12 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - Implementar modos de baixo consumo (**sleep modes**).
 - Otimizar código para **eficiência energética**.
 
-### **11.2. Segurança em Sistemas Embarcados**
+### **[11.2. Segurança em Sistemas Embarcados](https://embarcados.com.br/tag/seguranca/)**
 
 **Objetivos de Aprendizado**:
 
-- Entender vulnerabilidades comuns.
-- Aplicar **criptografia básica** e **autenticação**.
+- **[Entender vulnerabilidades comuns](https://embarcados.com.br/dicas-praticas-para-seguranca-de-sistemas-embarcados/).**
+- **[Aplicar **criptografia básica** e **autenticação**](https://embarcados.com.br/como-implementar-autenticacao-segura-com-a-internet-das-coisas/).**
 
 ---
 
@@ -295,8 +295,8 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 **Objetivos de Aprendizado**:
 
-- **Machine Learning** em dispositivos embarcados.
-- Protocolos avançados de comunicação (**CAN**, **Ethernet**).
+- **[Machine Learning** em dispositivos embarcados.](https://embarcados.com.br/machine-learning-em-microcontroladores-intro/)**.
+- **[Protocolos avançados de comunicação (**CAN**, **Ethernet**).](https://blog.lri.com.br/rede-can-o-que-e-como-funciona-e-como-usar/)**
 
 ---
 
