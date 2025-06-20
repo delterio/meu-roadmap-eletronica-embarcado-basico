@@ -95,7 +95,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - **Sensor Ultrassônico**: Medir distância com o **HC-SR04**.
 - **Display LCD**: Exibir informações em um display **16x2**.
 
-### **4.2. Controle de Atuadores**
+### **4.2. [Controle de Atuadores](https://drive.google.com/drive/folders/18Ji0rwdFRIxUjZyDDjD53VN8ARUhRahO?usp=drive_link)**
 
 **Atividades**:
 
