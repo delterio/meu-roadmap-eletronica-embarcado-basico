@@ -247,7 +247,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 **Atividades**:
 
-- Enviar o projeto para fabricação em serviços como **PCBWay**.
+- Enviar o projeto para fabricação em serviços como **[PCBWay](https://www.pcbway.com/) e [JLCPCB](https://jlcpcb.com/pt/)**.
 - Montar e testar a placa desenvolvida.
 
 ---
