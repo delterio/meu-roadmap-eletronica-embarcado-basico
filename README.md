@@ -247,8 +247,13 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 **Atividades**:
 
-- Enviar o projeto para fabricação em serviços como **[PCBWay](https://www.pcbway.com/) e [JLCPCB](https://jlcpcb.com/pt/)**.
-- Montar e testar a placa desenvolvida.
+**Enviar o projeto para fabricação em serviços, para montar e testar as placas e protótipos  desenvolvidos.**
+- **[PCBWay](https://www.pcbway.com/)**;
+- **[JLCPCB](https://jlcpcb.com/pt/)**;
+- **[EasyEDA-Design Tool de PCB](https://easyeda.com/)**;
+- **[JLC3DP - Impressão 3D e Fresagem CNC](https://jlc3dp.com/pt/?source=jlcpcb-footer)**;
+- **[JLCMC - Peças Mecatrônicas](https://jlcmc.com/?href=jlc-footer&source=jlc)**;
+- **[OSHWLAB - Hardware de Código Aberto](https://jlcmc.com/?href=jlc-footer&source=jlc)**; 
 
 ---
 
