@@ -235,7 +235,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 **Objetivos de Aprendizado**:
 
-- Conhecer softwares como **KiCad** ou **Eagle**.
+- Conhecer softwares como **[KiCad](https://www.kicad.org/)**, **[Eagle](https://www.autodesk.com/br/products/eagle/overview.acessado)**, **[EasyEDA](https://easyeda.com/)** e **[Proteus Design Suite](https://www.labcenter.com/)**.
 - Criar **esquemáticos** e **layout de placas**.
 
 **Recursos**:
