@@ -276,8 +276,16 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 **Atividades**:
 
-- Experimentar com microcontroladores **ARM (STM32)**.
-- Utilizar **Raspberry Pi** para projetos mais complexos.
+- Experimentar com microcontroladores **[ARM (STM32)](https://www.st.com/content/st_com/en.html)**.
+
+**Utilizar microcontrolador de placa única para projetos mais complexos.**
+-  **[Raspberry Pi](https://www.raspberrypi.com/)**;
+-  **[Orange Pi](http://www.orangepi.org/)**;
+-  **[Banana Pi](https://www.banana-pi.org/)**;
+-  **[BeagleBoard](https://www.beagleboard.org/)**;
+-  **[Libre Computer](https://libre.computer/)**;
+-  **[Tinker Board](https://tinker-board.asus.com/index.html)**;
+-  **[ODROID](https://www.hardkernel.com/)**. 
 
 ### **12.2. Temas Avançados**
 
