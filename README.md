@@ -34,7 +34,8 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 - **Tutorial**: [Programação em c++](https://youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40&si=D8tOBM8PZ60iyEAC)
 - **Livro**: [Linguagem C ](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf)
-- **Curso de linguagem C**:[Programe seu futuro](https://www.youtube.com/@programeseufuturo)
+- **Curso de linguagem C **:[Programe seu futuro](https://www.youtube.com/@programeseufuturo)
+- **Curso de Linguagem C++ **:[C++ Moderno](https://www.youtube.com/@JudSan)
 
 ---
 
