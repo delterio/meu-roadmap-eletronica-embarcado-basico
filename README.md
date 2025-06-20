@@ -272,7 +272,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ## **Etapa 12: Especialização e Atualização Contínua**
 
-### **12.1. Exploração de Novas Plataformas**
+### **12.1. [Exploração de Novas Plataformas](https://drive.google.com/drive/folders/1JnydRYBB02m4VJDMKBsxye6RWJoEK5r7?usp=drive_link)**
 
 **Atividades**:
 
