@@ -183,14 +183,14 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ## **Etapa 8: [Protocolos de Comunicação](https://embarcados.com.br/protocolos-de-rede/)**
 
-### **8.1. Comunicação Serial (UART)**
+### **8.1. [Comunicação Serial (UART)](https://embarcados.com.br/protocolos-de-rede/#Protocolo-de-Comunicacao-UART)**
 
 **Objetivos de Aprendizado**:
 
 - Estabelecer comunicação entre microcontroladores.
 - Depurar programas usando comunicação serial.
 
-### **8.2. Protocolos I2C e SPI**
+### **8.2. [Protocolos I2C e SPI](https://embarcados.com.br/protocolos-de-rede/#Protocolo-de-comunicacao-I2C)**
 
 **Atividades**:
 
@@ -199,7 +199,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 **Recursos**:
 
-- **Tutorial**: [I2C e SPI - Embarcados](https://www.embarcados.com.br/comunicacao-spi-e-i2c/)
+- **Tutorial**: [I2C e SPI - Embarcados])
 
 ### **8.3. Comunicação Sem Fio Avançada**
 
