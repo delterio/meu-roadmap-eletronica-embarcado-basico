@@ -67,7 +67,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ## **Etapa 3: Aprimorando Habilidades em Eletrônica e Programação**
 
-### **3.1. Conceitos Intermediários de Eletrônica**
+### **3.1. [Conceitos Intermediários de Eletrônica](https://basicaodaeletronica.com.br/category/eletronica-intermediaria/)**
 
 **Objetivos de Aprendizado**:
 
