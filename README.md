@@ -240,7 +240,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ## **Etapa 10: [Design e Fabricação de PCB](https://youtube.com/playlist?list=PL0BzMf8vqX-dQltUnxZL8nrT6NtVMj8GY&si=5FqlzLyjH6pGegfd)**
 
-### **10.1. Introdução ao Design de PCB**
+### **10.1. [Introdução ao Design de PCB](https://embarcados.com.br/10-mandamentos-da-pcb/)*
 
 **Objetivos de Aprendizado**:
 
