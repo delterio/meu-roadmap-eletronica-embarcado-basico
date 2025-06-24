@@ -317,7 +317,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - **Cursos Online**:
   - **Udemy**:
     - [Arduino Para Iniciantes: Crie Projetos com o Arduino](https://www.udemy.com/course/arduino-para-iniciantes/)
-    - [Programação Embarcada com ESP32](https://www.udemy.com/course/programacao-embarcada-com-esp32/)
+    - [Programação Embarcada com ESP32](https://www.udemy.com/course/esp32-for-arduino-makers/?couponCode=ST16MT230625A)
   - **Coursera**:
     - [Interfacing with the Arduino](https://www.coursera.org/learn/interface-with-arduino)
   - **edX**:
