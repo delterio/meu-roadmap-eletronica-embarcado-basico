@@ -201,7 +201,16 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 - **Tutorial**: [I2C e SPI - Embarcados])
 
-### **8.3. Comunicação Sem Fio Avançada**
+ ### **8.3. [Protocolo de comunicacao CAN](https://embarcados.com.br/protocolos-de-rede/#Protocolo-de-comunicacao-CAN)**
+
+**Objetivos de Aprendizado**:
+
+- Estabelecer comunicação entre aplicações de controle embarcado como automação industrial.
+- Encontra uso para redes de componentes em automóveis.
+- Encontra aplicações em aeronaves para análise em voo e rede de componentes como sistemas combustível e etc...
+
+
+### **8.4. Comunicação Sem Fio Avançada**
 
 **Objetivos de Aprendizado**:
 
