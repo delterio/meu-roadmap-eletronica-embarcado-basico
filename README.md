@@ -323,7 +323,9 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
   - **edX**:
     - [Embedded Systems Essentials with Arm](https://www.edx.org/course/embedded-systems-essentials-with-arm)
   - **IBM SkillsBuild**:
-    - [Explorando tecnologias emergentes](https://skills.yourlearning.ibm.com/) 
+    - [Explorando tecnologias emergentes](https://skills.yourlearning.ibm.com/)
+  - **Espressif Systems**:
+    - [Embedded Development Basics ESP32](https://www.espressif.com/en/ecosystem/education)    
 
 - **Livros Recomendados**:
   - *Arduino: Guia para colocar suas ideias em prática* Fernando Bryan Frizzarin
