@@ -75,7 +75,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - Utilizar **transistores** como chave.
 - Entender **filtros** e **fontes de alimentação**.
 
-### **3.2. Programação em C/C++ Avançada**
+### **3.2. [Programação em C/C++ Avançada](https://codigofacil.com.br/como-programar-em-c-do-basico-ao-avancado/)**
 
 **Objetivos de Aprendizado**:
 
