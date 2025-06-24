@@ -210,7 +210,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - Encontra aplicações em aeronaves para análise em voo e rede de componentes como sistemas combustível e etc...
 
 
-### **8.4. Comunicação Sem Fio Avançada**
+### **8.4. [Protocolo de Comunicação Sem Fio](https://embarcados.com.br/protocolos-de-rede-sem-fio-de-iot/)**
 
 **Objetivos de Aprendizado**:
 
