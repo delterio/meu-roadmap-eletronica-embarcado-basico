@@ -334,7 +334,9 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
   - **IBM SkillsBuild**:
     - [Explorando tecnologias emergentes](https://skills.yourlearning.ibm.com/)
   - **Espressif Systems**:
-    - [Embedded Development Basics ESP32](https://www.espressif.com/en/ecosystem/education)    
+    - [Embedded Development Basics ESP32](https://www.espressif.com/en/ecosystem/education)
+  - **Microchip University**:
+    - [Cursos de formação técnica sobre tópicos de controle incorporados ](https://techtrain.microchip.com/mu)
 
 - **Livros Recomendados**:
   - *Arduino: Guia para colocar suas ideias em prática* Fernando Bryan Frizzarin
