@@ -119,7 +119,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - **Documentação**: [Espressif ESP32 Guides](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
 - **Tutoriais**: [Random Nerd Tutorials - ESP32](https://randomnerdtutorials.com/projects-esp32/)
 
-### **5.2. Projetos com Wi-Fi**
+### **5.2. [Projetos com Wi-Fi](https://embarcados.com.br/tecnologias-de-comunicacao-sem-fio/)**
 
 **Atividades**:
 
@@ -127,7 +127,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - **HTTP Requests**: Enviar e receber dados via HTTP.
 - **Atualização Over-The-Air (OTA)**: Atualizar firmware sem cabo USB.
 
-### **5.3. Projetos com Bluetooth**
+### **5.3. [Projetos com Bluetooth](https://embarcados.com.br/tecnologias-de-comunicacao-sem-fio/#Bluetooth)**
 
 **Atividades**:
 
