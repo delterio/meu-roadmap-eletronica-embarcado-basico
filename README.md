@@ -10,7 +10,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ### **1.1. [Conceitos Básicos de Eletrônica](https://drive.google.com/drive/folders/1u1zmS8fdIq0VtTYuY_VwEYzLj1z-lM2B?usp=drive_link)**
 
-**Objetivos de Aprendizado**:
+**[Objetivos de Aprendizado: Eletricidade básica](https://embarcados.com.br/serie/eletricidade-basica/)**:
 
 - Compreender **tensão**, **corrente** e **resistência**.
 - Aplicar a **Lei de Ohm** e as **Leis de Kirchhoff**.
