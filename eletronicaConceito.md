@@ -1,9 +1,9 @@
 Aqui está a síntese das informações do slide em formato sucinto e informativo para te ajudar nos estudos:
 
-**Conceitos Básicos de Eletrônica:**
-- **Eletrônica**: Ramo da eletricidade que opera com correntes elétricas controladas e de baixa intensidade. Está presente no cotidiano.
+**[Conceitos Básicos de Eletrônica:](https://drive.google.com/drive/folders/1u1zmS8fdIq0VtTYuY_VwEYzLj1z-lM2B?usp=drive_link)**
+- **[Eletrônica](https://en.wikipedia.org/wiki/Electronics)**: Ramo da eletricidade que opera com correntes elétricas controladas e de baixa intensidade. Está presente no cotidiano.
   
-**Grandezas Elétricas:**
+**[Grandezas Elétricas:](https://pt.wikipedia.org/wiki/Eletricidade)**
 - **Tensão Elétrica (U)**: Diferença de potencial entre dois polos, medida em volts (V).
 - **Tensão Alternada**: Varia de valor com o tempo.
 - **Tensão Contínua**: Mantém o mesmo valor ao longo do tempo.
