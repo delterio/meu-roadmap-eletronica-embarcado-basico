@@ -1,7 +1,10 @@
 Aqui está a síntese das informações do slide em formato sucinto e informativo para te ajudar nos estudos:
 
 **[Conceitos Básicos de Eletrônica:](https://drive.google.com/drive/folders/1u1zmS8fdIq0VtTYuY_VwEYzLj1z-lM2B?usp=drive_link)**
+
 - **[Eletrônica](https://en.wikipedia.org/wiki/Electronics)**: Ramo da eletricidade que opera com correntes elétricas controladas e de baixa intensidade. Está presente no cotidiano.
+
+- **[Eletricidade básica](https://embarcados.com.br/serie/eletricidade-basica/)**: A eletricidade básica estuda os fenômenos relacionados às cargas elétricas, tanto em repouso (eletrostática) quanto em movimento (eletrodinâmica). É fundamental para entender como a energia elétrica é gerada, transmitida e utilizada em diversos dispositivos e sistemas.
   
 **[Grandezas Elétricas:](https://pt.wikipedia.org/wiki/Eletricidade)**
 - **[Tensão Elétrica (U)](https://pt.wikipedia.org/wiki/Potencial_el%C3%A9trico)**: Diferença de potencial entre dois polos, medida em volts (V).
