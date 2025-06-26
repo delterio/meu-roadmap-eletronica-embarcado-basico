@@ -294,7 +294,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - **[ARM (STM32)](https://www.st.com/content/st_com/en.html)**;
 - **[Microchip AVR](https://www.microchip.com/en-us/products/microcontrollers/8-bit-mcus/avr-mcus)**;
 - **[Microchip FPGA](https://www.microchip.com/en-us/products/fpgas-and-plds/fpgas)**;
-- **[Espressif ESP](https://www.espressif.com/en/products/socs)**;
+- **[Espressif ESP](https://www.espressif.com/en)**;
 - **[Microchip PIC](https://www.microchip.com/en-us/products/microcontrollers)**.
 
 **Utilizar microcontrolador de placa única para projetos mais complexos.**
