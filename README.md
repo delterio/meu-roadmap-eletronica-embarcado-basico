@@ -8,7 +8,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ## **Etapa 1: [Fundamentos de Eletrônica e Programação](https://www.newtoncbraga.com.br/cursos-on-line.html)**
 
-### **1.1. [Conceitos Básicos de Eletrônica](https://drive.google.com/drive/folders/0B0y88Lu1PrwVbU5OLWhhTmotdHc?resourcekey=0-oiDjmzDjphU9HdDGAsFqSQ&usp=drive_link)**
+### **1.1. [Conceitos Básicos de Eletrônica](https://drive.google.com/drive/folders/1u1zmS8fdIq0VtTYuY_VwEYzLj1z-lM2B?usp=drive_link)**
 
 **Objetivos de Aprendizado**:
 
@@ -65,7 +65,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ---
 
-## **Etapa 3: Aprimorando Habilidades em Eletrônica e Programação**
+## **Etapa 3: [Aprimorando Habilidades em Eletrônica e Programação](https://drive.google.com/drive/folders/0B0y88Lu1PrwVbU5OLWhhTmotdHc?resourcekey=0-oiDjmzDjphU9HdDGAsFqSQ&usp=drive_link)**
 
 ### **3.1. [Conceitos Intermediários de Eletrônica](https://basicaodaeletronica.com.br/category/eletronica-intermediaria/)**
 
