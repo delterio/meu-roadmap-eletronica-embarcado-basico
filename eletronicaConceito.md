@@ -4,7 +4,7 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 - **[Eletrônica](https://en.wikipedia.org/wiki/Electronics)**: Ramo da eletricidade que opera com correntes elétricas controladas e de baixa intensidade. Está presente no cotidiano.
   
 **[Grandezas Elétricas:](https://pt.wikipedia.org/wiki/Eletricidade)**
-- **[Tensão Elétrica (U)](https://pt.wikipedia.org/wiki/Campo_el%C3%A9trico)**: Diferença de potencial entre dois polos, medida em volts (V).
+- **[Tensão Elétrica (U)](https://pt.wikipedia.org/wiki/Potencial_el%C3%A9trico)**: Diferença de potencial entre dois polos, medida em volts (V).
 - **Tensão Alternada**: Varia de valor com o tempo.
 - **Tensão Contínua**: Mantém o mesmo valor ao longo do tempo.
 - **Tensão de Pico**: Máximo valor em cada semiciclo.
