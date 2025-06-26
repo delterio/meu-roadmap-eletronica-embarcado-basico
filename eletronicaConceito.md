@@ -5,8 +5,8 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
   
 **[Grandezas Elétricas:](https://pt.wikipedia.org/wiki/Eletricidade)**
 - **[Tensão Elétrica (U)](https://pt.wikipedia.org/wiki/Potencial_el%C3%A9trico)**: Diferença de potencial entre dois polos, medida em volts (V).
-- **Tensão Alternada**: Varia de valor com o tempo.
-- **Tensão Contínua**: Mantém o mesmo valor ao longo do tempo.
+- **[Tensão Alternada](https://pt.wikipedia.org/wiki/Corrente_alternada)**: Varia de valor com o tempo.
+- **[Tensão Contínua](https://pt.wikipedia.org/wiki/Corrente_cont%C3%ADnua)**: Mantém o mesmo valor ao longo do tempo.
 - **Tensão de Pico**: Máximo valor em cada semiciclo.
 - **Tensão de Pico a Pico**: Diferença entre o valor máximo e mínimo algébrico.
 - **Tensão Eficaz (RMS)**: Tensão contínua equivalente que produz a mesma potência que a tensão periódica (VRMS = 0,707VP).
