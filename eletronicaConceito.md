@@ -50,9 +50,9 @@ Aqui está a síntese das informações do slide "Conceitos 2" para você estuda
     Dividir o circuito em partes que são puramente em série ou em paralelo. 
     2. Calcular a resistência equivalente de cada parte:
 
-    Série: Soma-se as resistências: R_eq = R1 + R2 + .. 
+       Série: Soma-se as resistências: R_eq = R1 + R2 + .. 
 
-    Paralelo: Aplica-se a fórmula: 1/R_eq = 1/R1 + 1/R2 + .. 
+       Paralelo: Aplica-se a fórmula: 1/R_eq = 1/R1 + 1/R2 + .. 
 
     3. Substituir cada parte pelo seu equivalente:
     Substituir as partes do circuito que foram calculadas por suas resistências equivalentes. 
