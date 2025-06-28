@@ -35,7 +35,7 @@ Aqui está a síntese das informações do slide "Conceitos 2" para você estuda
 **[Análise de rede (circuitos elétricos):](https://en.wikipedia.org/wiki/Electrical_network)**
 
 **[Resistores:](https://en.wikipedia.org/wiki/Resistor)**
-- **Função**: Opor resistência à passagem de corrente elétrica (medida em Ohms), causando queda de tensão, mas sem alterar a corrente.
+- **[Função](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance)**: Opor resistência à passagem de corrente elétrica (medida em Ohms), causando queda de tensão, mas sem alterar a corrente.
 - **Tipos**: Podem ser fixos ou variáveis (potenciômetros ou reostatos). O valor nominal pode ser visualizado no corpo do resistor ou medido com um multímetro.
 
 **Associações de Resistores:**
