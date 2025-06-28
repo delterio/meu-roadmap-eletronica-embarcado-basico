@@ -32,7 +32,9 @@ Esses pontos cobrem os conceitos apresentados no slide, organizados de forma pr�
 
 Aqui está a síntese das informações do slide "Conceitos 2" para você estudar e adicionar ao seu Notion:
 
-**Resistores:**
+**[Análise de rede (circuitos elétricos):](https://en.wikipedia.org/wiki/Electrical_network)**
+
+**[Resistores:](https://en.wikipedia.org/wiki/Resistor)**
 - **Função**: Opor resistência à passagem de corrente elétrica (medida em Ohms), causando queda de tensão, mas sem alterar a corrente.
 - **Tipos**: Podem ser fixos ou variáveis (potenciômetros ou reostatos). O valor nominal pode ser visualizado no corpo do resistor ou medido com um multímetro.
 
@@ -68,6 +70,8 @@ Aqui está a síntese das informações do slide "Conceitos 2" para você estuda
 Esses pontos cobrem os conceitos essenciais do slide, prontos para organizar em seu Notion e ajudar nos seus estudos para a prova!
 
 Aqui está a versão mais desenvolvida com base nas informações fornecidas no slide:
+
+### **Análise de rede (circuitos elétricos):**
 
 ### **Resistores:**
 - **Definição**: Resistores são componentes cuja função principal é oferecer oposição à passagem de corrente elétrica. Essa oposição é chamada de **resistência elétrica** ou **impedância**.
