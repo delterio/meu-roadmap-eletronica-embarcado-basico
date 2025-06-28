@@ -38,13 +38,25 @@ Aqui está a síntese das informações do slide "Conceitos 2" para você estuda
 - **[Função](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance)**: Opor resistência à passagem de corrente elétrica (medida em Ohms), causando queda de tensão, mas sem alterar a corrente.
 - **Tipos**: Podem ser fixos ou variáveis (potenciômetros ou reostatos). O valor nominal pode ser visualizado no corpo do resistor ou medido com um multímetro.
 
-**Associações de Resistores:**
-- **Série**: A corrente é a mesma em todos os resistores, e a soma das tensões é igual à tensão aplicada. A resistência equivalente (Req) é a soma das resistências:  
+**[Associações de Resistores:](https://embarcados.com.br/associacao-de-resistores/)**
+- **[Série](https://embarcados.com.br/associacao-de-resistores/#Associacao-de-Resistores-em-Serie)**: A corrente é a mesma em todos os resistores, e a soma das tensões é igual à tensão aplicada. A resistência equivalente (Req) é a soma das resistências:  
   \( Req = R1 + R2 + ... + Rn \)
-- **Paralelo**: A corrente se divide entre as ramificações, mas a tensão é a mesma. A resistência equivalente é dada por:  
+- **[Paralelo](https://embarcados.com.br/associacao-de-resistores/#Associacao-de-Resistores-em-Paralelo)**: A corrente se divide entre as ramificações, mas a tensão é a mesma. A resistência equivalente é dada por:  
   \( 1/Req = 1/R1 + 1/R2 \).  
   Se as resistências são iguais:  
   \( Req = R / número de resistores \).
+ - **[Mista](https://embarcados.com.br/associacao-de-resistores/#Associacao-Mista)**:
+    1. Identificar as associações:
+    Dividir o circuito em partes que são puramente em série ou em paralelo. 
+    2. Calcular a resistência equivalente de cada parte:
+
+    Série: Soma-se as resistências: R_eq = R1 + R2 + .. 
+
+    Paralelo: Aplica-se a fórmula: 1/R_eq = 1/R1 + 1/R2 + .. 
+
+    3. Substituir cada parte pelo seu equivalente:
+    Substituir as partes do circuito que foram calculadas por suas resistências equivalentes. 
+ 
 
 **Divisor de Tensão:**
 - Utilizado para distribuir tensão em um circuito com resistores em série. A queda de tensão em cada resistência é proporcional ao valor do resistor. Para dois resistores, a fórmula é:  
