@@ -20,7 +20,7 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 
 **[Corrente Elétrica:](https://en.wikipedia.org/wiki/Electric_current)**
 - Fluxo ordenado de elétrons através de um condutor, do ponto de maior para menor concentração de elétrons.
-- **Corrente Alternada/Contínua**: Conceitos semelhantes aos de tensão.
+- **[Corrente Alternada](https://en.wikipedia.org/wiki/Alternating_current)**: A direção do fluxo de elétrons muda periodicamente, alternando entre positivo e negativo, em ciclos.
 - **Corrente Eficaz (IRMS)**: IRMS = 0,707IP.
 
 **[Fontes de Corrente:](https://en.wikipedia.org/wiki/Current_source)**
