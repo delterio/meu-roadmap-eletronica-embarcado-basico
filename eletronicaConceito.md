@@ -58,25 +58,25 @@ Aqui está a síntese das informações do slide "Conceitos 2" para você estuda
     Substituir as partes do circuito que foram calculadas por suas resistências equivalentes. 
  
 
-**Divisor de Tensão:**
+**[Divisor de Tensão:](https://embarcados.com.br/divisor-de-tensao/)**
 - Utilizado para distribuir tensão em um circuito com resistores em série. A queda de tensão em cada resistência é proporcional ao valor do resistor. Para dois resistores, a fórmula é:  
   \( V1 = V_s * (R1 / (R1 + R2)) \).
 
-**Divisor de Corrente:**
+**[Divisor de Corrente:](https://embarcados.com.br/divisor-de-corrente/)**
 - Em resistores em paralelo, a corrente se divide entre eles de forma proporcional às suas condutâncias. A corrente em cada resistor é:  
   \( i1 = i_s * (G1 / (G1 + G2)) \).
 
-**Teorema de Thévenin:**
+**[Teorema de Thévenin:](https://embarcados.com.br/teorema-de-thevenin/)**
 - Um circuito linear pode ser representado por uma fonte de tensão em série com uma resistência. Para encontrar o equivalente de Thévenin:
   1. Obtenha a tensão em aberto.
   2. Encontre a resistência equivalente anulando as fontes independentes.
 
-**Teorema de Norton:**
+**[Teorema de Norton:](https://embarcados.com.br/teorema-de-thevenin/)**
 - Um circuito pode ser representado por uma fonte de corrente em paralelo com uma resistência. Para obter o equivalente de Norton:
   1. Determine a corrente de curto-circuito.
   2. Calcule a resistência vista dos terminais com a fonte de tensão nula.
 
-**Teorema da Superposição:**
+**[Teorema da Superposição:](https://embarcados.com.br/teorema-da-superposicao-de-efeitos/)**
 - A corrente ou tensão total em um ramo de um circuito linear é a soma das contribuições de cada fonte atuando separadamente. Cada fonte é considerada isoladamente, enquanto as outras são desativadas (fontes de tensão são curtas e fontes de corrente são abertas).
 
 Esses pontos cobrem os conceitos essenciais do slide, prontos para organizar em seu Notion e ajudar nos seus estudos para a prova!
