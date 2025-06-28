@@ -10,8 +10,8 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 - **[Tensão Elétrica (U)](https://pt.wikipedia.org/wiki/Potencial_el%C3%A9trico)**: Diferença de potencial entre dois polos, medida em volts (V).
 - **[Tensão Alternada](https://pt.wikipedia.org/wiki/Corrente_alternada)**: Varia de valor com o tempo.
 - **[Tensão Contínua](https://pt.wikipedia.org/wiki/Corrente_cont%C3%ADnua)**: Mantém o mesmo valor ao longo do tempo.
-- **Tensão de Pico**: Máximo valor em cada semiciclo.
-- **Tensão de Pico a Pico**: Diferença entre o valor máximo e mínimo algébrico.
+- **Tensão de Pico(Vp)**: Máximo valor em cada semiciclo.
+- **Tensão de Pico a Pico(Vpp)**: Diferença entre o valor máximo e mínimo algébrico.
 - **[Tensão Eficaz (RMS)](https://embarcados.com.br/valor-rms-ou-eficaz/)**: Tensão contínua equivalente que produz a mesma potência que a tensão periódica (VRMS = 0,707VP).
 - **Valor Médio**: Relacionado à componente contínua de uma onda periódica, representa a área sob a curva em um intervalo de tempo.
 
