@@ -15,7 +15,7 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 - **[Tensão Eficaz (RMS)](https://embarcados.com.br/valor-rms-ou-eficaz/)**: Tensão contínua equivalente que produz a mesma potência que a tensão periódica (VRMS = 0,707VP).
 - **Valor Médio**: Relacionado à componente contínua de uma onda periódica, representa a área sob a curva em um intervalo de tempo.
 
-**[Fontes de Tensão:](https://en.wikipedia.org/wiki/Current_source)**
+**[Fontes de Tensão:](https://en.wikipedia.org/wiki/Voltage_source)**
 - **Fonte Ideal**: Resistência interna zero.
 
 **[Corrente Elétrica:](https://en.wikipedia.org/wiki/Electric_current)**
@@ -23,7 +23,7 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 - **Corrente Alternada/Contínua**: Conceitos semelhantes aos de tensão.
 - **Corrente Eficaz (IRMS)**: IRMS = 0,707IP.
 
-**Fontes de Corrente:**
+**[Fontes de Corrente:]()**
 - **Fonte Ideal**: Resistência interna infinita.
 - **Fonte Real**: Possui resistência intrínseca.
 
