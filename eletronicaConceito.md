@@ -83,9 +83,9 @@ Esses pontos cobrem os conceitos essenciais do slide, prontos para organizar em 
 
 Aqui está a versão mais desenvolvida com base nas informações fornecidas no slide:
 
-### **Análise de rede (circuitos elétricos):**
+### **[Análise de rede (circuitos elétricos):](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))**
 
-### **Resistores:**
+### **[Resistores:](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance)**
 - **Definição**: Resistores são componentes cuja função principal é oferecer oposição à passagem de corrente elétrica. Essa oposição é chamada de **resistência elétrica** ou **impedância**.
 - **Medida**: A resistência é medida em **Ohms (Ω)**. Quanto maior a resistência, maior a oposição ao fluxo de corrente elétrica.
 - **Efeito no Circuito**: Resistores causam queda de tensão em partes do circuito, mas **não causam queda de corrente elétrica**. Ou seja, a corrente que entra no resistor é igual à que sai. Isso é fundamental em circuitos para controlar a corrente que passa por outros componentes sem alterar o valor da corrente no circuito como um todo.
@@ -96,7 +96,7 @@ Aqui está a versão mais desenvolvida com base nas informações fornecidas no 
 
 ### **Associação de Resistores:**
 
-#### **Associação em Série**:
+#### **[Associação em Série](https://en.wikipedia.org/wiki/Series_and_parallel_circuits#Series_circuits)**:
 - **Corrente**: A corrente elétrica é a mesma em todos os resistores conectados em série. Assim, se você conectar vários resistores em série, a corrente que percorre cada um deles será a mesma.
 - **Tensão**: A soma das tensões nos resistores é igual à tensão total aplicada ao circuito.
 - **Cálculo da Resistência Equivalente (Req)**: Em uma associação em série, a resistência equivalente é simplesmente a soma de todas as resistências:
@@ -105,7 +105,7 @@ Aqui está a versão mais desenvolvida com base nas informações fornecidas no 
   \]
   Ou seja, a resistência total de vários resistores em série é maior do que qualquer uma das resistências individuais.
 
-#### **Associação em Paralelo**:
+#### **[Associação em Paralelo](https://en.wikipedia.org/wiki/Series_and_parallel_circuits#Parallel_circuits)**:
 - **Corrente**: Segundo a **Lei dos Nós de Kirchhoff**, a corrente se divide entre as ramificações de resistores em paralelo. Cada ramificação recebe uma parte da corrente total, e a soma das correntes individuais é igual à corrente total que entra no circuito.
 - **Tensão**: A diferença de potencial (tensão) em cada resistor é a mesma em todos os resistores conectados em paralelo.
 - **Cálculo da Resistência Equivalente (Req)**: A resistência equivalente de resistores em paralelo é menor do que a menor resistência individual. O cálculo é feito pela fórmula:
