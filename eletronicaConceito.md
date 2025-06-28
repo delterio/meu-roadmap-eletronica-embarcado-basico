@@ -85,16 +85,16 @@ Aqui está a versão mais desenvolvida com base nas informações fornecidas no 
 
 ### **[Análise de rede (circuitos elétricos):](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))**
 
-### **[Resistores:](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance)**
+### **[Resistores:](https://en.wikipedia.org/wiki/Resistor)**
 - **Definição**: Resistores são componentes cuja função principal é oferecer oposição à passagem de corrente elétrica. Essa oposição é chamada de **resistência elétrica** ou **impedância**.
 - **Medida**: A resistência é medida em **Ohms (Ω)**. Quanto maior a resistência, maior a oposição ao fluxo de corrente elétrica.
 - **Efeito no Circuito**: Resistores causam queda de tensão em partes do circuito, mas **não causam queda de corrente elétrica**. Ou seja, a corrente que entra no resistor é igual à que sai. Isso é fundamental em circuitos para controlar a corrente que passa por outros componentes sem alterar o valor da corrente no circuito como um todo.
 
-### **Tipos de Resistores**:
+### **[Tipos de Resistores](https://en.wikipedia.org/wiki/List_of_resistors)**:
 - **Fixos**: Têm um valor constante de resistência. São amplamente utilizados em diversos circuitos para garantir que uma determinada quantidade de corrente passe por uma parte específica do circuito.
 - **Variáveis**: Também chamados de **potenciômetros** ou **reostatos**, esses resistores permitem ajustar o valor da resistência. Isso é feito ao girar um eixo ou deslizar uma alavanca, modificando a resistência conforme necessário no circuito.
 
-### **Associação de Resistores:**
+### **[Associação de Resistores:](https://en.wikipedia.org/wiki/Series_and_parallel_circuits)**
 
 #### **[Associação em Série](https://en.wikipedia.org/wiki/Series_and_parallel_circuits#Series_circuits)**:
 - **Corrente**: A corrente elétrica é a mesma em todos os resistores conectados em série. Assim, se você conectar vários resistores em série, a corrente que percorre cada um deles será a mesma.
@@ -121,7 +121,7 @@ Aqui está a versão mais desenvolvida com base nas informações fornecidas no 
   R_{eq} = \frac{R}{n}
   \]
 
-### **Divisor de Tensão**:
+### **[Divisor de Tensão](https://embarcados.com.br/divisor-de-tensao/)**:
 - **Descrição**: Um divisor de tensão é um circuito com resistores em série conectados a uma fonte de tensão. A tensão total é dividida proporcionalmente entre os resistores, de acordo com seus valores de resistência.
 - **Fórmula**: A queda de tensão em um resistor dentro de um divisor de tensão é calculada pela equação:
   \[
@@ -129,7 +129,7 @@ Aqui está a versão mais desenvolvida com base nas informações fornecidas no 
   \]
   Onde \(V_j\) é a tensão sobre o resistor \(R_j\), \(V_s\) é a tensão da fonte, e \(R_1 + R_2 + ... + R_n\) é a soma das resistências totais em série.
 
-### **Divisor de Corrente**:
+### **[Divisor de Corrente](https://embarcados.com.br/divisor-de-corrente/)**:
 - **Descrição**: Um divisor de corrente funciona com resistores em paralelo. A corrente total fornecida ao circuito se divide entre os resistores de acordo com seus valores de condutância (o inverso da resistência).
 - **Fórmula**: A corrente em cada resistor é dada por:
   \[
@@ -137,7 +137,7 @@ Aqui está a versão mais desenvolvida com base nas informações fornecidas no 
   \]
   Onde \(I_j\) é a corrente através do resistor \(R_j\), \(I_s\) é a corrente fornecida pela fonte, e \(G_j = \frac{1}{R_j}\) é a condutância de cada resistor.
 
-### **Teorema de Thévenin**:
+### **[Teorema de Thévenin](https://en.wikipedia.org/wiki/Th%C3%A9venin%27s_theorem)**:
 - **Descrição**: O **Teorema de Thévenin** afirma que qualquer circuito linear com resistores e fontes de energia pode ser representado como uma única fonte de tensão em série com uma resistência equivalente.
 - **Cálculo**: Para encontrar o circuito equivalente de Thévenin:
   1. **Tensão em aberto**: Determina-se a tensão entre dois terminais quando o circuito está aberto.
@@ -146,7 +146,7 @@ Aqui está a versão mais desenvolvida com base nas informações fornecidas no 
      RTh = \frac{R_1 \cdot R_2}{R_1 + R_2}
      \]
 
-### **Teorema de Norton**:
+### **[Teorema de Norton](https://en.wikipedia.org/wiki/Norton%27s_theorem)**:
 - **Descrição**: Similar ao teorema de Thévenin, o **Teorema de Norton** afirma que qualquer circuito linear pode ser representado por uma fonte de corrente em paralelo com uma resistência equivalente.
 - **Cálculo**: Para encontrar o equivalente de Norton:
   1. **Corrente de Curto-Circuito**: Determina-se a corrente de curto-circuito entre os terminais.
@@ -160,7 +160,7 @@ Aqui está a versão mais desenvolvida com base nas informações fornecidas no 
      IN = \frac{VTh}{RTh}
      \]
 
-### **Teorema da Superposição**:
+### **[Teorema da Superposição](https://pt.wikipedia.org/wiki/Teorema_da_superposi%C3%A7%C3%A3o#:~:text=O%20teorema%20da%20superposi%C3%A7%C3%A3o%20para,tamb%C3%A9m%20para%20a%20tens%C3%A3o%20el%C3%A9trica.)**:
 - **Descrição**: O **Teorema da Superposição** afirma que a corrente ou a tensão em qualquer ponto de um circuito linear é igual à soma das correntes ou tensões produzidas por cada fonte atuando individualmente. Isso significa que para analisar um circuito com várias fontes, você pode considerar cada fonte separadamente, desativando as outras (fontes de tensão são substituídas por curto-circuito e fontes de corrente por circuito aberto), e depois somar os efeitos.
 
 ---
