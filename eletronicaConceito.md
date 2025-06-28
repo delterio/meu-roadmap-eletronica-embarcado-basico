@@ -22,7 +22,7 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 - **[Corrente Elétrica:](https://en.wikipedia.org/wiki/Electric_current)**: Fluxo ordenado de elétrons através de um condutor, do ponto de maior para menor concentração de elétrons.
 - **[Corrente Alternada(CA ou AC)](https://en.wikipedia.org/wiki/Alternating_current)**: A direção do fluxo de elétrons muda periodicamente, alternando entre positivo e negativo, em ciclos.
 - **[Corrente Contínua (CC ou DC)](https://en.wikipedia.org/wiki/Direct_current)**: Os elétrons se movem em uma única direção, do polo negativo para o positivo de uma fonte de energia, como uma bateria.
-- **Corrente Eficaz (IRMS)**: IRMS = 0,707IP.
+- **[Corrente Eficaz (IRMS)](https://en.wikipedia.org/wiki/Root_mean_square)**: Em matemática, a raiz do valor quadrático médio ou RMS (do inglês root mean square) ou valor eficaz é uma medida estatística da magnitude de uma quantidade variável.
 
 **[Fontes de Corrente:](https://en.wikipedia.org/wiki/Current_source)**
 - **Fonte Ideal**: Resistência interna infinita.
