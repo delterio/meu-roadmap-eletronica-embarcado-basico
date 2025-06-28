@@ -23,7 +23,7 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 - **Corrente Alternada/Contínua**: Conceitos semelhantes aos de tensão.
 - **Corrente Eficaz (IRMS)**: IRMS = 0,707IP.
 
-**[Fontes de Corrente:]()**
+**[Fontes de Corrente:](https://en.wikipedia.org/wiki/Current_source)**
 - **Fonte Ideal**: Resistência interna infinita.
 - **Fonte Real**: Possui resistência intrínseca.
 
