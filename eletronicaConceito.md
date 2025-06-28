@@ -19,8 +19,9 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 - **Fonte Ideal**: Resistência interna zero.
 
 **[Corrente Elétrica:](https://en.wikipedia.org/wiki/Electric_current)**
-- Fluxo ordenado de elétrons através de um condutor, do ponto de maior para menor concentração de elétrons.
-- **[Corrente Alternada](https://en.wikipedia.org/wiki/Alternating_current)**: A direção do fluxo de elétrons muda periodicamente, alternando entre positivo e negativo, em ciclos.
+- **[Corrente Elétrica:](https://en.wikipedia.org/wiki/Electric_current)**: Fluxo ordenado de elétrons através de um condutor, do ponto de maior para menor concentração de elétrons.
+- **[Corrente Alternada(CA ou AC)](https://en.wikipedia.org/wiki/Alternating_current)**: A direção do fluxo de elétrons muda periodicamente, alternando entre positivo e negativo, em ciclos.
+- **[Corrente Contínua (CC ou DC)](https://en.wikipedia.org/wiki/Direct_current)**: Os elétrons se movem em uma única direção, do polo negativo para o positivo de uma fonte de energia, como uma bateria.
 - **Corrente Eficaz (IRMS)**: IRMS = 0,707IP.
 
 **[Fontes de Corrente:](https://en.wikipedia.org/wiki/Current_source)**
