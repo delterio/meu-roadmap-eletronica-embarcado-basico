@@ -18,7 +18,7 @@ Aqui está a síntese das informações do slide em formato sucinto e informativ
 **[Fontes de Tensão:](https://en.wikipedia.org/wiki/Current_source)**
 - **Fonte Ideal**: Resistência interna zero.
 
-**Corrente Elétrica:**
+**[Corrente Elétrica:](https://en.wikipedia.org/wiki/Electric_current)**
 - Fluxo ordenado de elétrons através de um condutor, do ponto de maior para menor concentração de elétrons.
 - **Corrente Alternada/Contínua**: Conceitos semelhantes aos de tensão.
 - **Corrente Eficaz (IRMS)**: IRMS = 0,707IP.
