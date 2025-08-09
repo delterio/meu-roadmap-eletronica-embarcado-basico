@@ -252,7 +252,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - **Tutorial**: [Introdução ao KiCad - Embarcados](https://www.embarcados.com.br/kicad/)
 - **Curso**: [Curso de KiCad - WR Kits](https://www.wrkits.com.br/curso/kicad)
 
-### **10.2. Fabricação e Montagem**
+### **10.2. [Fabricação e Montagem](https://jlcpcb.com/pt//)**
 
 **Atividades**:
 
