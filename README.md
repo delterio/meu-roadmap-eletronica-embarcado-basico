@@ -346,6 +346,8 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - **Livros Recomendados**:
   - *Arduino: Guia para colocar suas ideias em prática* Fernando Bryan Frizzarin
   - *Programação Sistemas Embarcados* Rodrigo Almeida
+  - [*Eletronica_Volume_1_Malvino](https://drive.google.com/file/d/0B0y88Lu1PrwVQ0tfcEtsV3FMbjQ/view?usp=drive_link&resourcekey=0-YH9pBLNJIFdQkKFbRw7imA)
+  - [*Eletronica_volume_2_malvino](https://drive.google.com/file/d/0B0y88Lu1PrwVVGJ6QUlFY1dBOG8/view?usp=drive_link&resourcekey=0-zOttx2-Ty-x4-E_IcbsBzg)
 
 ---
 
