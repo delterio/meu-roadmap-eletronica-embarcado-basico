@@ -149,7 +149,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 - **Tutorial**: [Introdução ao FreeRTOS - LAB de Garagem](https://labdegaragem.com/profiles/blogs/introducao-ao-freertos-no-esp32)
 
-### **6.2. Projetos com FreeRTOS**
+### **6.2. [Projetos com FreeRTOS](https://embarcados.com.br/serie/projeto-com-freertos/)**
 
 **Atividades**:
 
@@ -160,7 +160,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ## **Etapa 7: [Microcontroladores de Baixo Custo - ATtiny85](https://www.microchip.com/en-us/product/attiny85)**
 
-### **7.1. Programação do ATtiny85**
+### **7.1. [Programação do ATtiny85](https://blog.eletrogate.com/processamento-de-dados-attiny85-e-arduino-trabalhando-juntos/)**
 
 **Objetivos de Aprendizado**:
 
@@ -172,7 +172,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - **Tutorial**: [Programando ATtiny85 com Arduino - Laboratório de Garagem](https://labdegaragem.com/profiles/blogs/attiny85-com-arduino)
 - **Datasheet**: [Microchip - ATtiny85 Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny85-Data-Sheet-40002085A.pdf)
 
-### **7.2. Projetos com ATtiny85**
+### **7.2. [Projetos com ATtiny85](https://blog.eletrogate.com/digispark-attiny85-transformando-em-um-teclado-personalizado/)**
 
 **Atividades**:
 
