@@ -36,7 +36,7 @@ Aqui está a síntese das informações do slide "Conceitos 2" para você estuda
 
 **[Resistores:](https://en.wikipedia.org/wiki/Resistor)**
 - **[Função](https://en.wikipedia.org/wiki/Electrical_resistance_and_conductance)**: Opor resistência à passagem de corrente elétrica (medida em Ohms), causando queda de tensão, mas sem alterar a corrente.
-- **Tipos**: Podem ser fixos ou variáveis (potenciômetros ou reostatos). O valor nominal pode ser visualizado no corpo do resistor ou medido com um multímetro.
+- **[Tipos](https://en.wikipedia.org/wiki/List_of_resistors)**: Podem ser fixos ou variáveis (potenciômetros ou reostatos). O valor nominal pode ser visualizado no corpo do resistor ou medido com um multímetro.
 
 **[Associações de Resistores:](https://embarcados.com.br/associacao-de-resistores/)**
 - **[Série](https://embarcados.com.br/associacao-de-resistores/#Associacao-de-Resistores-em-Serie)**: A corrente é a mesma em todos os resistores, e a soma das tensões é igual à tensão aplicada. A resistência equivalente (Req) é a soma das resistências:  
