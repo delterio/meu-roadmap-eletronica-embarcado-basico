@@ -312,6 +312,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 - **[Machine Learning** em dispositivos embarcados.](https://embarcados.com.br/machine-learning-em-microcontroladores-intro/)**.
 - **[Protocolos avançados de comunicação (**CAN**, **Ethernet**).](https://blog.lri.com.br/rede-can-o-que-e-como-funciona-e-como-usar/)**
+- **[Hardware Hacking](https://github.com/jcldf)**
 
 ---
 
@@ -338,7 +339,10 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
     - [Embedded Development Basics ESP32](https://www.espressif.com/en/ecosystem/education)
   - **Microchip University**:
     - [Cursos de formação técnica sobre tópicos de controle incorporados ](https://techtrain.microchip.com/mu)
-
+  - **Solyd**:
+    - [Introdução ao Hardware Hacking](https://solyd.com.br/aluno/course/introducao-ao-hardware-hacking/)
+   
+      
 - **Livros Recomendados**:
   - *Arduino: Guia para colocar suas ideias em prática* Fernando Bryan Frizzarin
   - *Programação Sistemas Embarcados* Rodrigo Almeida
