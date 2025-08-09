@@ -221,7 +221,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 
 ## **Etapa 9: [Desenvolvimento de Projetos Integrados](https://drive.google.com/drive/folders/1uONFw90cyHwPeSwW6QjGf8L0pYnPqzwZ?usp=drive_link)**
 
-### **9.1. Projeto Prático: Estação Meteorológica IoT**
+### **9.1. [Projeto Prático: Estação Meteorológica IoT](https://www.usinainfo.com.br/blog/estacao-meteorologica-simples-com-bme280-e-esp32-com-ip-fixo/?srsltid=AfmBOoqgcPO96xTqpRfpPCoSgMxkJhX3MvGQtRRysSKhTrj15n0bhm5Y)**
 
 **Atividades**:
 
@@ -229,7 +229,7 @@ Este roadmap foi elaborado para guiá-lo em sua jornada no mundo dos sistemas em
 - Enviar dados para a nuvem usando **MQTT**.
 - Visualizar dados em **dashboards online**.
 
-### **9.2. Projeto Prático: Automação Residencial**
+### **9.2. [Projeto Prático: Automação Residencial](https://www.usinainfo.com.br/blog/automacao-residencial-com-esp32-controle-sua-casa-pela-web/?srsltid=AfmBOorj2Ziw8Ip0eColH15rzJd39gKppW54YwGIVQC_yuVI3OdMSlgb)**
 
 **Atividades**:
 
